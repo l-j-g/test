@@ -1,4 +1,22 @@
 {
   "projectName": "test",
-  "projectOwner": "l-j-g"
+  "projectOwner": "l-j-g",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "l-j-g",
+      "name": "Lachlan Greve",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3397306?v=4",
+      "profile": "https://github.com/l-j-g",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    }
+  ]
 }
